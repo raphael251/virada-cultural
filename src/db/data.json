@@ -1,0 +1,422 @@
+[
+    {
+        "regiao": "Centro",
+        "local": "Anhangabaú - Plural",
+        "dia": "SAB",
+        "inicio": "18h00",
+        "termino": "19h00",
+        "titulo": "Palavra Cantada",
+        "categoria": "Música"
+    },
+    {
+        "regiao": "Centro",
+        "local": "Anhangabaú - Plural",
+        "dia": "SAB",
+        "inicio": "21h00",
+        "termino": "22h30",
+        "titulo": "Ofertório - Caetano, Moreno, Zeca e Tom Veloso",
+        "categoria": "Música"
+    },
+    {
+        "regiao": "Centro",
+        "local": "Anhangabaú - Plural",
+        "dia": "DOM",
+        "inicio": "00h00",
+        "termino": "01h30",
+        "titulo": "Criolo",
+        "categoria": "Música"
+    },
+    {
+        "regiao": "Centro",
+        "local": "Anhangabaú - Plural",
+        "dia": "DOM",
+        "inicio": "03h00",
+        "termino": "04h30",
+        "titulo": "Seun Kuti & Egypt 80 part. IZA",
+        "categoria": "Música"
+    },
+    {
+        "regiao": "Centro",
+        "local": "Anhangabaú - Plural",
+        "dia": "DOM",
+        "inicio": "09h00",
+        "termino": "10h00",
+        "titulo": "Aline Barros",
+        "categoria": "Música"
+    },
+    {
+        "regiao": "Centro",
+        "local": "Anhangabaú - Plural",
+        "dia": "DOM",
+        "inicio": "12h00",
+        "termino": "13h30",
+        "titulo": "Anitta",
+        "categoria": "Música",
+        "acessibilidade": "LIBRAS"
+    },
+    {
+        "regiao": "Centro",
+        "local": "Anhangabaú - Plural",
+        "dia": "DOM",
+        "inicio": "14h30",
+        "termino": "15h30",
+        "titulo": "Anavitória",
+        "categoria": "Música",
+        "acessibilidade": "LIBRAS"
+    },
+    {
+        "regiao": "Centro",
+        "local": "Anhangabaú - Plural",
+        "dia": "DOM",
+        "inicio": "17h00",
+        "termino": "18h00",
+        "titulo": "Lucas Lucco",
+        "categoria": "Música",
+        "acessibilidade": "LIBRAS"
+    },
+    {
+        "regiao": "Centro",
+        "local": "Casper Líbero - Pop",
+        "dia": "SAB",
+        "inicio": "19h00",
+        "termino": "20h00",
+        "titulo": "Ana Muller",
+        "categoria": "Música"
+    },
+    {
+        "regiao": "Centro",
+        "local": "Casper Líbero - Pop",
+        "dia": "SAB",
+        "inicio": "21h00",
+        "termino": "22h00",
+        "titulo": "Mariana Nolasco",
+        "categoria": "Música"
+    },
+    {
+        "regiao": "Centro",
+        "local": "Casper Líbero - Pop",
+        "dia": "SAB",
+        "inicio": "23h00",
+        "termino": "00h00",
+        "titulo": "Alice Caymmi",
+        "categoria": "Música"
+    },
+    {
+        "regiao": "Centro",
+        "local": "Casper Líbero - Pop",
+        "dia": "DOM",
+        "inicio": "01h00",
+        "termino": "02h00",
+        "titulo": "Karol Conka convida Danna Lisboa",
+        "categoria": "Música"
+    },
+    {
+        "regiao": "Centro",
+        "local": "Casper Líbero - Pop",
+        "dia": "DOM",
+        "inicio": "03h00",
+        "termino": "04h00",
+        "titulo": "Matuê",
+        "categoria": "Música"
+    },
+    {
+        "regiao": "Centro",
+        "local": "Casper Líbero - Pop",
+        "dia": "DOM",
+        "inicio": "09h00",
+        "termino": "10h00",
+        "titulo": "Tuyo",
+        "categoria": "Música"
+    },
+    {
+        "regiao": "Centro",
+        "local": "Casper Líbero - Pop",
+        "dia": "DOM",
+        "inicio": "11h00",
+        "termino": "12h00",
+        "titulo": "Jão",
+        "categoria": "Música",
+        "acessibilidade": "LIBRAS"
+    },
+    {
+        "regiao": "Centro",
+        "local": "Casper Líbero - Pop",
+        "dia": "DOM",
+        "inicio": "13h00",
+        "termino": "14h00",
+        "titulo": "Onze:20",
+        "categoria": "Música",
+        "acessibilidade": "LIBRAS"
+    },
+    {
+        "regiao": "Centro",
+        "local": "Casper Líbero - Pop",
+        "dia": "DOM",
+        "inicio": "15h00",
+        "termino": "16h00",
+        "titulo": "Vitor Kley",
+        "categoria": "Música",
+        "acessibilidade": "LIBRAS"
+    },
+    {
+        "regiao": "Centro",
+        "local": "Casper Líbero - Pop",
+        "dia": "DOM",
+        "inicio": "17h00",
+        "termino": "18h00",
+        "titulo": "Silva",
+        "categoria": "Música",
+        "acessibilidade": "LIBRAS"
+    },
+    {
+        "regiao": "Centro",
+        "local": "República da Diversidade",
+        "dia": "SAB",
+        "inicio": "19h00",
+        "termino": "20h00",
+        "titulo": "Novas Famílias, Marina Lima convida Letrux",
+        "categoria": "Música",
+        "acessibilidade": "LIBRAS"
+    },
+    {
+        "regiao": "Centro",
+        "local": "República da Diversidade",
+        "dia": "SAB",
+        "inicio": "22h00",
+        "termino": "23h00",
+        "titulo": "Ocupação Travesti",
+        "categoria": "Música",
+        "acessibilidade": "LIBRAS"
+    },
+    {
+        "regiao": "Centro",
+        "local": "República da Diversidade",
+        "dia": "DOM",
+        "inicio": "01h00",
+        "termino": "02h00",
+        "titulo": "Quebrada Queer convida: Preta Rara + Kaya Conky + Pepita",
+        "categoria": "Música"
+    },
+    {
+        "regiao": "Centro",
+        "local": "República da Diversidade",
+        "dia": "DOM",
+        "inicio": "04h00",
+        "termino": "05h00",
+        "titulo": "Pabllo Vittar",
+        "categoria": "Música"
+    },
+    {
+        "regiao": "Centro",
+        "local": "República da Diversidade",
+        "dia": "DOM",
+        "inicio": "06h30",
+        "termino": "07h30",
+        "titulo": "Majur e Hiran",
+        "categoria": "Música"
+    },
+    {
+        "regiao": "Centro",
+        "local": "República da Diversidade",
+        "dia": "DOM",
+        "inicio": "08h30",
+        "termino": "09h30",
+        "titulo": "Transformistas",
+        "categoria": "Música"
+    },
+    {
+        "regiao": "Centro",
+        "local": "República da Diversidade",
+        "dia": "DOM",
+        "inicio": "11h00",
+        "termino": "12h00",
+        "titulo": "Baile do Abrava - Tiago Abravanel convida Jeniffer Nascimento",
+        "categoria": "Música"
+    },
+    {
+        "regiao": "Centro",
+        "local": "República da Diversidade",
+        "dia": "DOM",
+        "inicio": "13h30",
+        "termino": "14h30",
+        "titulo": "Jaloo convida Gaby Amarantos + Mc Tha",
+        "categoria": "Música",
+        "acessibilidade": "LIBRAS"
+    },
+    {
+        "regiao": "Centro",
+        "local": "República da Diversidade",
+        "dia": "DOM",
+        "inicio": "16h00",
+        "termino": "17h00",
+        "titulo": "Baile da Preta - Preta Gil",
+        "categoria": "Música",
+        "acessibilidade": "LIBRAS"
+    },
+    {
+        "regiao": "Sul",
+        "local": "M'Boi Mirim",
+        "dia": "SAB",
+        "inicio": "18h00",
+        "termino": "19h00",
+        "titulo": "Umoja",
+        "categoria": "Música"
+    },
+    {
+        "regiao": "Sul",
+        "local": "M'Boi Mirim",
+        "dia": "SAB",
+        "inicio": "20h00",
+        "termino": "21h00",
+        "titulo": "Funk de Griffe",
+        "categoria": "Música"
+    },
+    {
+        "regiao": "Sul",
+        "local": "M'Boi Mirim",
+        "dia": "SAB",
+        "inicio": "22h00",
+        "termino": "23h00",
+        "titulo": "Banda Preto Soul",
+        "categoria": "Música"
+    },
+    {
+        "regiao": "Sul",
+        "local": "M'Boi Mirim",
+        "dia": "DOM",
+        "inicio": "00h00",
+        "termino": "01h30",
+        "titulo": "Baile da Preta - Preta Gil",
+        "categoria": "Música"
+    },
+    {
+        "regiao": "Sul",
+        "local": "M'Boi Mirim",
+        "dia": "DOM",
+        "inicio": "12h00",
+        "termino": "13h15",
+        "titulo": "É O Tchan convida Reinaldo e Ninha",
+        "categoria": "Música",
+        "acessibilidade":"LIBRAS"
+    },
+    {
+        "regiao": "Sul",
+        "local": "M'Boi Mirim",
+        "dia": "DOM",
+        "inicio": "13h30",
+        "termino": "14h30",
+        "titulo": "Tinkus",
+        "categoria": "Música e Dança",
+        "acessibilidade":"LIBRAS"
+    },
+    {
+        "regiao": "Sul",
+        "local": "M'Boi Mirim",
+        "dia": "DOM",
+        "inicio": "15h00",
+        "termino": "16h30",
+        "titulo": "Exalta Samba",
+        "categoria": "Música",
+        "acessibilidade":"LIBRAS"
+    },
+    {
+        "regiao": "Sul",
+        "local": "M'Boi Mirim",
+        "dia": "DOM",
+        "inicio": "17h00",
+        "termino": "18h00",
+        "titulo": "Cidinho e Doca",
+        "categoria": "Música",
+        "acessibilidade":"LIBRAS"
+    },
+    {
+        "regiao": "Sul",
+        "local": "Céu Três Lagos",
+        "dia": "SAB",
+        "inicio": "15h00",
+        "termino": "16h00",
+        "titulo": "Pixote",
+        "categoria": "Música"
+    },
+    {
+        "regiao": "Sul",
+        "local": "Sesc Interlagos",
+        "dia": "SAB",
+        "inicio": "18h00",
+        "termino": "19h30",
+        "titulo": "Sepultura",
+        "categoria": "Música"
+    },
+    {
+        "regiao": "Sul",
+        "local": "Sesc Interlagos",
+        "dia": "DOM",
+        "inicio": "15h00",
+        "termino": "16h00",
+        "titulo": "Os Atrapalhados - Escola Acrobática Professor Romero",
+        "categoria": "Circo"
+    },
+    {
+        "regiao": "Sul",
+        "local": "Sesc Interlagos",
+        "dia": "DOM",
+        "inicio": "16h00",
+        "termino": "17h00",
+        "titulo": "Djonga - Show \"Ladrão\"",
+        "categoria": "Música"
+    },
+    {
+        "regiao": "Sul",
+        "local": "Centro Cultural Grajaú",
+        "dia": "SAB",
+        "inicio": "19h00",
+        "termino": "20h00",
+        "titulo": "Stefanie",
+        "categoria": "Música"
+    },
+    {
+        "regiao": "Sul",
+        "local": "Centro Cultural Grajaú",
+        "dia": "SAB",
+        "inicio": "20h30",
+        "termino": "21h30",
+        "titulo": "Claudinho de Oliveira",
+        "categoria": "Música"
+    },
+    {
+        "regiao": "Sul",
+        "local": "Centro Cultural Grajaú",
+        "dia": "SAB",
+        "inicio": "22h00",
+        "termino": "23h00",
+        "titulo": "Paula Mattos",
+        "categoria": "Música"
+    },
+    {
+        "regiao": "Sul",
+        "local": "Centro Cultural Grajaú",
+        "dia": "DOM",
+        "inicio": "00h00",
+        "termino": "01h00",
+        "titulo": "Ponto de Equilíbrio",
+        "categoria": "Música"
+    },
+    {
+        "regiao": "Sul",
+        "local": "Centro Cultural Grajaú",
+        "dia": "DOM",
+        "inicio": "14h00",
+        "termino": "15h00",
+        "titulo": "Negra Li",
+        "categoria": "Música"
+    },
+    {
+        "regiao": "Sul",
+        "local": "Centro Cultural Grajaú",
+        "dia": "DOM",
+        "inicio": "17h00",
+        "termino": "18h00",
+        "titulo": "Baco Exu do Blues",
+        "categoria": "Música"
+    }
+]
