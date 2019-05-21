@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import data from "./db/data";
 import Form from "./components/Form";
+import Table from "./components/Table";
 import "./App.css";
 
 const App = () => {
@@ -31,32 +32,7 @@ const App = () => {
         setFilter={setFilter}
         filter={filter}
       />
-      <table className="table table-striped table-bordered table-hover table-sm">
-        <thead>
-          <tr>
-            <th>Região</th>
-            <th>Local</th>
-            <th>Dia</th>
-            <th>Horário</th>
-            <th>Categoria</th>
-            <th>Evento</th>
-            <th>Inclusão</th>
-          </tr>
-        </thead>
-        <tbody>
-          {filteredData.map((item, index) => (
-            <tr key={`evento#${index}`}>
-              <td>{item.regiao}</td>
-              <td>{item.local}</td>
-              <td>{item.dia}</td>
-              <td>{`${item.inicio} - ${item.termino}`}</td>
-              <td>{item.categoria}</td>
-              <td>{item.titulo}</td>
-              <td>{item.acessibilidade ? item.acessibilidade : "-"}</td>
-            </tr>
-          ))}
-        </tbody>
-      </table>
+      <Table filteredData={filteredData} />
     </div>
   );
 };
