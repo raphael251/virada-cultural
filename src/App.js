@@ -14,11 +14,10 @@ const App = () => {
   const [filteredData, setFilteredData] = useState(data);
 
   useEffect(() => { 
-    console.log('filter: ', filter);
     
     const filteredResult = filterResult(filter);
+    setFilteredData(filteredResult);
 
-    setFilteredData(filteredResult)
   }, [filter]);
 
   return (
