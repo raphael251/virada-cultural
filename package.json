@@ -9,6 +9,8 @@
     "react-scripts": "3.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -29,5 +31,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://raphael251.github.io/virada-cultural"
+  "homepage": "https://raphael251.github.io/virada-cultural",
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
