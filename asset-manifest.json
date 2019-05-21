@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/virada-cultural/static/css/main.cfda8877.chunk.css",
+    "main.js": "/virada-cultural/static/js/main.d635474f.chunk.js",
+    "main.js.map": "/virada-cultural/static/js/main.d635474f.chunk.js.map",
+    "runtime~main.js": "/virada-cultural/static/js/runtime~main.f3de4acf.js",
+    "runtime~main.js.map": "/virada-cultural/static/js/runtime~main.f3de4acf.js.map",
+    "static/css/2.266e55a5.chunk.css": "/virada-cultural/static/css/2.266e55a5.chunk.css",
+    "static/js/2.b765de56.chunk.js": "/virada-cultural/static/js/2.b765de56.chunk.js",
+    "static/js/2.b765de56.chunk.js.map": "/virada-cultural/static/js/2.b765de56.chunk.js.map",
+    "index.html": "/virada-cultural/index.html",
+    "precache-manifest.e34c2f1649b7c81a2bf968b4c5e041da.js": "/virada-cultural/precache-manifest.e34c2f1649b7c81a2bf968b4c5e041da.js",
+    "service-worker.js": "/virada-cultural/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/virada-cultural/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.cfda8877.chunk.css.map": "/virada-cultural/static/css/main.cfda8877.chunk.css.map"
+  }
+}
